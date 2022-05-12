@@ -81,7 +81,7 @@ parameters:
         mx: ['esl-MX']
         mz: ['por-MZ']
         nl: ['dut-NL']
-        no: ['nor-NO']
+        'no': ['nor-NO']
         nz: ['eng-NZ']
         pl: ['pol-PL']
         pt: ['por-PT']
